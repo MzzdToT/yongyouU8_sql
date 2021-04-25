@@ -1,6 +1,6 @@
 # yongyouU8_sql
 
-用友U8 OA test.jsp文件S1参数SQL注入漏洞批量扫描
+用友 U8 OA test.jsp文件S1参数存在SQL注入漏洞
 
 
 ## 漏洞影响
